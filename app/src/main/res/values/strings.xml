@@ -1,0 +1,13 @@
+<resources>
+    <string name="nombre_app">Practica Notas</string>
+    <string name="crear">Crear nota</string>
+    <string name="eliminar_todas">Eliminar todas las notas</string>
+    <string name="estas_seguro">¿Estas seguro que desseas eliminar?</string>
+    <string name="eliminadas">Se han eliminado</string>
+    <string name="nueva_nota">Nueva nota</string>
+    <string name="editar_nota">Editar</string>
+    <string name="nota_actualizada">Actiualizada</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="nota_eliminada">Eliminada</string>
+    <string name="introduce_nota">Introduce tu nota</string>
+</resources>
